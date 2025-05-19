@@ -1,0 +1,2 @@
+<?php
+// Mailer class here

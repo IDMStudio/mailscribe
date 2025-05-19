@@ -1,0 +1,2 @@
+<?php
+// Subscriber class here
